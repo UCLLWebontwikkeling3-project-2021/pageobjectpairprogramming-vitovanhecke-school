@@ -1,3 +1,7 @@
+/*
+Vito Van Hecke
+Rafael Hoek
+ */
 import org.openqa.selenium.WebDriver;
 
 public abstract class Page {
